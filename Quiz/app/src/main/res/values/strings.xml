@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="true_text">True</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">Correto</string>
+    <string name="wrong_answer">Incorreto</string>
+    <string name="my_test_question_1">Gabigol é o melhor atacante em atividade no futebol mundial</string>
+    <string name="my_test_question_2">Goytacaz é maior que o Americano FC</string>
+    <string name="my_test_question_3">Messi é maior que Pelé</string>
+    <string name="my_test_question_4">Jorge Jesus é melhor técnico do futebol mundial</string>
+    <string name="my_test_question_5">Vinicios Jr >>>> abismo >>>> João Félix</string>
+    <string name="my_test_question_6">Gerson já jogou como goleiro</string>
+    <string name="my_test_question_7">Ribamar é melhor que Neymar</string>
+    <string name="my_test_question_8">Fagner é o melhor lateral do Brasil</string>
+    <string name="my_test_question_9">Bruno Henrique já ultrapassou 60km/h</string>
+    <string name="next_text">next</string>
+    <string name="last_text">last</string>
+    <string name="previous_button">previous_button</string>
+
+</resources>
